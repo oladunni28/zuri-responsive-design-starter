@@ -355,7 +355,13 @@ div.footer h6 {
     div.nav-bar{
         background-color: brown;
     }
+
+    div.footer{
+        background-color: #304353;
+    }
+    
 }
+
 
     
 /*if screen width less than or equal to 769px*/

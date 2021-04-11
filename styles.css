@@ -350,12 +350,12 @@ div.footer h6 {
 }
 
 
-/*if screen width is less than or equal to 769px
+/*if screen width is less than or equal to 769px*/
 @media screen and (max-width: 700px) {
     div.nav-bar{
         background-color: brown;
     }
-}*/
+}
 
     
 /*if screen width less than or equal to 769px*/
